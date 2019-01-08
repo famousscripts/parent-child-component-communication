@@ -1,4 +1,11 @@
-# Parentchild
+# Parent child Component comunucation :
+
+Steps to view communication: 
+
+1. npm install.
+2. npm start.
+3. view on console for both parent is main conponent and child is student component.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
